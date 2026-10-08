@@ -13,6 +13,10 @@ The system is designed to make vehicle maintenance easier by allowing users to m
 
 assets/screenshots/autocare-viewvehicle.PNG
 
+(assets/screenshots/dashboard.png)
+
+
+
 🔧 Maintenance History – Keep a detailed record of services, repairs, and maintenance activities.
 (assets/screenshots/autocare-dashboard.PNG)
 📅 Service Scheduling – Track upcoming maintenance and service requirements.
