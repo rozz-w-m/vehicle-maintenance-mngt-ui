@@ -1,34 +1,32 @@
 # Vehicle Maintenance Management System
 
-A modern Vehicle Maintenance Management System designed to help car owners efficiently manage and monitor the condition, maintenance history, expenses, and upcoming service needs of their vehicles.
-**
-  Project Overview**
+A modern Vehicle Maintenance Management System designed to help car owners keep track of their vehicles, maintenance history, service costs, vehicle condition, and upcoming maintenance needs.
 
-The system provides vehicle owners with a centralized platform where they can keep a complete digital record of their vehicles.
+📌 About the Project
 
-Instead of relying on physical service records or trying to remember previous repairs, users can easily track important vehicle information, maintenance activities, costs, and upcoming services in one place.
+The Vehicle Maintenance Management System provides car owners with a centralized platform for managing all their vehicle-related information.
+
+The system is designed to make vehicle maintenance easier by allowing users to maintain a complete digital history of their vehicle's condition, repairs, services, expenses, and upcoming maintenance requirements.
 
 ✨ Key Features
-🚘 Vehicle registration and profiles
-🔧 Maintenance and service history
-💰 Maintenance cost and expense tracking
-📅 Upcoming service reminders
-🛠️ Vehicle condition tracking
-📋 Service and repair records
-📊 Vehicle maintenance overview
-🔔 Maintenance notifications and reminders
-📁 Digital storage of vehicle-related records
+🚘 Vehicle Registration – Add and manage vehicle information such as registration number, make, model, and year.
+🔧 Maintenance History – Keep a detailed record of services, repairs, and maintenance activities.
+💰 Cost Tracking – Record and monitor vehicle maintenance and repair expenses.
+📅 Service Scheduling – Track upcoming maintenance and service requirements.
+🛠️ Vehicle Condition – Monitor the overall condition and maintenance status of each vehicle.
+📊 Dashboard – Get a quick overview of vehicle information, maintenance activities, and expenses.
+🔔 Maintenance Reminders – Help users stay on top of upcoming services and maintenance tasks.
 🎨 UI/UX Design
 
-This repository contains the design concept and interface for the Vehicle Maintenance Management System.
+The system was designed with a focus on simplicity, usability, and responsive design.
 
-The design focuses on creating a simple, modern, and user-friendly experience that allows vehicle owners to quickly understand the current condition of their vehicles and manage their maintenance activities.
+The interface provides car owners with an easy way to navigate between their vehicles, maintenance records, expenses, and upcoming services.
+
+The project includes a visual prototype demonstrating the user interface and overall system flow.
 
 🎥 Design Preview
 
-A video demonstration of the system's interface and design is included in this repository.
-
-The video demonstrates the main screens, navigation flow, dashboard, vehicle information, maintenance records, expenses, and service management features.
+The repository includes a video demonstration showcasing the system's interface, navigation, and main features.
 
 🛠️ Design Tools
 Figma
@@ -37,18 +35,24 @@ Responsive Design
 Prototyping
 🚀 Future Development
 
-The design can be extended into a fully functional web or mobile application with:
+The current project focuses on the UI/UX design and prototype. Future development may include:
 
-User authentication
-Vehicle management
-Automated service reminders
-Maintenance notifications
-Expense analytics
-Mechanic/service-center integration
+User authentication and authorization
+Multiple vehicle management
+Automated maintenance reminders
+Service and repair notifications
+Maintenance expense analytics
+Digital service records
+Mechanic and service-center integration
 Cloud-based data storage
 Vehicle maintenance reports
-👩‍💻 Project Status
+Web and mobile application support
+📌 Project Status
 
-Design & Prototype — In Progress
+UI/UX Design & Prototype — In Progress
 
-The current repository focuses on the UI/UX design and prototype of the system, with plans for further development into a functional application.
+This project is currently focused on the design and prototyping stage, with plans to develop the concept into a fully functional vehicle maintenance management application.
+
+👩‍💻 Author
+
+Roseline Mac
