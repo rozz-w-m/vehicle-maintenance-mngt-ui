@@ -11,6 +11,8 @@ The system is designed to make vehicle maintenance easier by allowing users to m
 ✨ Key Features
 🚘 Vehicle Registration – Add and manage vehicle information such as registration number, make, model, and year.
 
+https://github.com/rozz-w-m/vehicle-maintenance-mngt-ui/blob/main/assets/screenshots/autocare-notifcations.PNG
+
 assets/screenshots/autocare-viewvehicle.PNG
 
 (assets/screenshots/dashboard.png)
