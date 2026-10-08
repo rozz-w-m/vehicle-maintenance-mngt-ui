@@ -10,13 +10,18 @@ The system is designed to make vehicle maintenance easier by allowing users to m
 
 ✨ Key Features
 🚘 Vehicle Registration – Add and manage vehicle information such as registration number, make, model, and year.
+(assets/screenshots/autocare-viewvehicle.png)
 🔧 Maintenance History – Keep a detailed record of services, repairs, and maintenance activities.
-💰 Cost Tracking – Record and monitor vehicle maintenance and repair expenses.
+(assets/screenshots/autocare-dashboard.PNG)
 📅 Service Scheduling – Track upcoming maintenance and service requirements.
 🛠️ Vehicle Condition – Monitor the overall condition and maintenance status of each vehicle.
+(assets/screenshots/autocare-vehicles.png)
 📊 Dashboard – Get a quick overview of vehicle information, maintenance activities, and expenses.
+(assets/screenshots/autocare-dashboard.png)
 🔔 Maintenance Reminders – Help users stay on top of upcoming services and maintenance tasks.
+(assets/screenshots/autocare-reminders.PNG)
 🎨 UI/UX Design
+
 
 The system was designed with a focus on simplicity, usability, and responsive design.
 
