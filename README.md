@@ -2,31 +2,24 @@
 
 A modern Vehicle Maintenance Management System designed to help car owners keep track of their vehicles, maintenance history, service costs, vehicle condition, and upcoming maintenance needs.
 
-📌 About the Project
+## 📌 About the Project
 
 The Vehicle Maintenance Management System provides car owners with a centralized platform for managing all their vehicle-related information.
 
 The system is designed to make vehicle maintenance easier by allowing users to maintain a complete digital history of their vehicle's condition, repairs, services, expenses, and upcoming maintenance requirements.
 
-✨ Key Features
-🚘 Vehicle Registration – Add and manage vehicle information such as registration number, make, model, and year.
+ ## ✨ Key Features:
 
-(assets/screenshots/autocare-notifcations.PNG)
+ - 🚘 Vehicle Registration – Add and manage vehicle information such as registration number, make, model, and year.
+- 🔧 Maintenance History – Keep a detailed record of services, repairs, and maintenance activities.
+- 📅 Service Scheduling – Track upcoming maintenance and service requirements.
+- 🛠️ Vehicle Condition – Monitor the overall condition and maintenance status of each vehicle.
+- 📊 Dashboard – Get a quick overview of vehicle information, maintenance activities, and expenses.
+- 🔔 Maintenance Reminders – Help users stay on top of upcoming services and maintenance tasks.
 
-assets/screenshots/autocare-viewvehicle.PNG
-
-(assets/screenshots/dashboard.png)
-
-
-
-🔧 Maintenance History – Keep a detailed record of services, repairs, and maintenance activities.
 (assets/screenshots/autocare-dashboard.PNG)
-📅 Service Scheduling – Track upcoming maintenance and service requirements.
-🛠️ Vehicle Condition – Monitor the overall condition and maintenance status of each vehicle.
 (assets/screenshots/autocare-vehicles.png)
-📊 Dashboard – Get a quick overview of vehicle information, maintenance activities, and expenses.
 (assets/screenshots/autocare-dashboard.png)
-🔔 Maintenance Reminders – Help users stay on top of upcoming services and maintenance tasks.
 (assets/screenshots/autocare-reminders.PNG)
 🎨 UI/UX Design
 
